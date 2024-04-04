@@ -22,7 +22,7 @@ const Navbar = () => {
                             {navOption}
                         </ul>
                     </div>
-                    <Link to='/' className="btn btn-ghost text-xl">YouTube-Teach</Link>
+                    <Link to='/' className="btn btn-ghost text-xl">Orbit-Teach</Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
