@@ -10,7 +10,7 @@ const Companies = () => {
     return (
         <div>
             <h2 className="text-4xl font-bold text-center py-5">Trusted by over 800+ companies</h2>
-            <div className='my-12 mx-8 flex  flex-col lg:flex-row  justify-between  justify-items-center'>
+            <div className='my-12 mx-8 flex  flex-col lg:flex-row justify-between items-center  justify-items-center'>
                 <div>
                     <img src={img1} alt="" />
                 </div>
